@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Signup-Form-Master/static/css/main.f08b7779.css",
+    "main.js": "/Signup-Form-Master/static/js/main.67e2b89f.js",
+    "static/js/787.0b5df154.chunk.js": "/Signup-Form-Master/static/js/787.0b5df154.chunk.js",
+    "static/media/bg-intro-desktop.png": "/Signup-Form-Master/static/media/bg-intro-desktop.059183eea52640c5068d.png",
+    "static/media/logo.svg": "/Signup-Form-Master/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Signup-Form-Master/index.html",
+    "main.f08b7779.css.map": "/Signup-Form-Master/static/css/main.f08b7779.css.map",
+    "main.67e2b89f.js.map": "/Signup-Form-Master/static/js/main.67e2b89f.js.map",
+    "787.0b5df154.chunk.js.map": "/Signup-Form-Master/static/js/787.0b5df154.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f08b7779.css",
+    "static/js/main.67e2b89f.js"
+  ]
+}
